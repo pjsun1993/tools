@@ -1,3 +1,6 @@
 ProcessExplorer/* filter=lfs diff=lfs merge=lfs -text
 /ProcessMonitor/* filter=lfs diff=lfs merge=lfs -text
 SwitchHosts-4.2.0-win/* filter=lfs diff=lfs merge=lfs -text
+exe/* filter=lfs diff=lfs merge=lfs -text
+vpn/* filter=lfs diff=lfs merge=lfs -text
+zip/* filter=lfs diff=lfs merge=lfs -text
