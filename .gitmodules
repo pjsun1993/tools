@@ -1,0 +1,6 @@
+[submodule "AutoAPI"]
+	path = AutoAPI
+	url = git@github.com:pjsun1993/AutoAPI.git
+[submodule "image-snippets-helper"]
+	path = image-snippets-helper
+	url = git@github.com:pjsun1993/image-snippets-helper.git
