@@ -1,0 +1,4 @@
+owner: oldj
+repo: SwitchHosts
+provider: github
+updaterCacheDirName: switchhosts-updater
